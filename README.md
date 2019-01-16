@@ -1,4 +1,4 @@
 # Node_mongo_Api
 using mongoose
-All crud operation using mongoDb,mongoose and node js
-Rest Api for crud operation in node js
+All curd operation using mongoDb,mongoose and node js
+Rest Api for curd operation in node js
